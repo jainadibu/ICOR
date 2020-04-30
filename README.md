@@ -7,12 +7,13 @@ To run ICOR, users may either simply run the packaged ICOR project, or in order 
 
 # Packaged, ready-to-go ICOR project (RECOMMENDED)
 1. Download the ICOR App folder under "Code/Packaged Execution" *must download the entire folder as it contains graphics and network object. Note the path where you downloaded it*
-1.a Ensure that an ICORnet ".mat" file is in the ICOR App folder (this file will continue to be updated while ICOR is under development, so you only need to download the latest ICORnet instead of updating the entire program)
-2. In the initialization tab, press the initialize button and select the folder in which the ICOR.exe file was downloaded
-3. Go to the ICOR app tab to start the optimization process
-4. Select your locally stored FASTA file containing the sequence or copy & paste the sequence into the textbox in the ICOR app
-5. Select the downloaded ICORnet using the Select Net button
-6. Copy your exported, optimized sequence in the textbox (it is also saved as a .txt file locally)
+1.a Ensure that an ICORNet_v... ".mat" file is in the ICOR App folder (this file will continue to be updated while ICOR is under development, so you only need to download the latest ICORnet instead of updating the entire program)
+2. Run ICORInstaller *this installer is unfortunately huge as MATLAB requires its runtime to be installed*
+3. Once the ICOR App installs, run it as administrator, wait a couple minutes. In the initialization tab, press the initialize button and select the ICOR App folder you downloaded.
+4. Go to the ICOR app tab & start the optimization process!
+5. Select your locally stored FASTA file containing the sequence or copy & paste the sequence into the textbox in the ICOR app or run the demo
+6. Select the downloaded "ICORNet_v..." using the Select Net button
+7. Copy your exported, optimized sequence in the textbox (it can also be saved as a .txt file locally)
 
 # MATLAB execution environment
 - Dependencies: MATLAB 2019a+, Deep Learning Toolbox, Bioinformatics Toolbox
