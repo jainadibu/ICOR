@@ -17,9 +17,10 @@ To run ICOR, users may either simply run the packaged ICOR project, or in order 
 
 # MATLAB execution environment
 - Dependencies: MATLAB 2019a+, Deep Learning Toolbox, Bioinformatics Toolbox
+
 How to run on your data:
 1. Download the folder under "Code/MATLAB Execution"
-2. Import your data using fastalator.m
+2. Import your training/testing sequence/s using fastalator.m
 3. Convert it into the encoded format using createTrainingData.m
 4. Type the following code: "Ypred = classify(ICORnet, XData)"
 4a. Optional: run the getAllAccuracies.m program to get some detailed statistics which compare the optimized sequence to the original
