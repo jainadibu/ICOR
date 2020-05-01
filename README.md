@@ -6,7 +6,7 @@ ICOR is a codon optimization tool which uses an RNN model in order to learn sequ
 To run ICOR, users may either simply run the packaged ICOR project, or in order to perform high-throughput analysis, get accuracy statistics, or replicate the work done, the MATLAB run option is available. Both are detailed below.
 
 # Packaged, ready-to-go ICOR project (RECOMMENDED)
-1. Download ICORInstaller from "Packaged Execution/" *this installer is unfortunately slow as MATLAB requires its runtime to be installed from the Web (~800 MB)*
+1. Download ICORInstaller from "Final Project ICOR/Code/Packaged Execution/" *this installer is unfortunately slow as MATLAB requires its runtime to be installed from the Web (~800 MB)*
 2. Once the ICOR App installs, run the newly installed app as an administrator. It may take a few minutes to launch, especially on first run.
 3. Press the Import .FASTA button and import your fasta file. There is a sample fasta included called testfasta.fasta in ICOR/application.
    3a. Alternatively, copy & paste the amino acid sequence into the textbox in the ICOR app or toggle the Demo FASTA toggle (optimizes a     THR Operon Leader Peptide)
