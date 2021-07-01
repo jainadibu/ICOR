@@ -1,3 +1,4 @@
+%% Copyright (C) 2020-2021 Aditya Jain, Rishab Jain
 function infoStruct = splitlargefasta(filename,numInFile)
 % SPLITLARGEFASTA breaks a large FASTA file into smaller files
 %
