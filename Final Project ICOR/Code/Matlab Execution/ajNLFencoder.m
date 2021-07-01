@@ -1,3 +1,4 @@
+%% Copyright (C) 2020-2021 Aditya Jain, Rishab Jain
 %%Custom function to encode an amino acid sequence through non-linear
 %%fischer transform. For use with createTrainingDataNLF.m
 
