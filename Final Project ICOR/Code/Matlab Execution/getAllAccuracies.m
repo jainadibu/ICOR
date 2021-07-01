@@ -1,3 +1,4 @@
+%% Copyright (C) 2020-2021 Aditya Jain, Rishab Jain
 %%This script calculates the codon accuracy, amino acid accuracy, and
 %%"error" in a,t,c,g percentages for a set of testing data
 %Set XTest to be the input data (amino acids, encoded) and newnetEX to be
