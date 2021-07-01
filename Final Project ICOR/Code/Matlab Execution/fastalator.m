@@ -1,3 +1,4 @@
+%% Copyright (C) 2020-2021 Aditya Jain, Rishab Jain
 %%input fasta file is converted into a structure as a nucleotide sequence
 %%and a translated amino acid sequence. For training, your input fasta file
 %%should have all the proteins you are using. For testing on a single
