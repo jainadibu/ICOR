@@ -1,3 +1,4 @@
+%% Copyright (C) 2020-2021 Aditya Jain, Rishab Jain
 %%mini-script to take a One Hot Encoded input sequqence and revert it to an
 %%amino acid sequence
 
