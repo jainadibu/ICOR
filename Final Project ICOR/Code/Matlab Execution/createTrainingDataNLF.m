@@ -1,3 +1,4 @@
+%% Copyright (C) 2020-2021 Aditya Jain, Rishab Jain
 %%encodes input amino acid & nucleotide set through One Hot Encoding,
 %%accounting for IUPAC guidelines. Dependent on ajNLFencoder.m
 
