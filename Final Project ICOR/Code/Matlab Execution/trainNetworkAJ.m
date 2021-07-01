@@ -1,3 +1,4 @@
+%% Copyright (C) 2020-2021 Aditya Jain, Rishab Jain
 %%Control panel for training IcorNet. Try uncommenting and commenting out
 %%different lines to adjust the network properties. Also commented out
 %%below is a way to sort your data for when you do not want to shuffle
